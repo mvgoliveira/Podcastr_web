@@ -1,6 +1,7 @@
 //SSG
 import { GetStaticProps } from 'next';
 import Image from 'next/image';
+import Head from 'next/head';
 import Link from 'next/link';
 
 import { api } from '../../services/api';
@@ -35,6 +36,9 @@ export default function Home({ allEpisodes, latestEpisodes }: HomeProps) {
 
   return (
     <div className={styles.homePage}>
+      <Head>
+        <title>Início | Podcastr</title>
+      </Head>
 
       <section className={styles.latestEpisodes}>
         <h2>Últimos lançamentos</h2>
