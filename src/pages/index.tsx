@@ -110,8 +110,13 @@ export default function Home({ allEpisodes, latestEpisodes }: HomeProps) {
                     <td> {episode.durationAsString} </td>
                     
                     <td>
-                      <button type="button" onClick={() => playList(episodeList, index + latestEpisodes.length)}>
+                      <button 
+                        type="button" 
+                        onClick={() => playList(episodeList, index + latestEpisodes.length)}
+                      >
+
                         <img src="./play-green.svg" alt="Tocar episódio"/>
+                        
                       </button>
                     </td>
                   </tr>

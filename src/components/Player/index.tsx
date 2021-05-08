@@ -14,6 +14,7 @@ export function Player() {
       episodeList, 
       currentEpisodeIndex, 
       isPlaying,
+      isLooping,
       setPlayingState, 
       togglePlay,
       playNext,
@@ -79,6 +80,7 @@ export function Player() {
                <audio 
                   src={episode.url}
                   ref={audioRef}
+                  loop={isLooping}
                   autoPlay
                   onPlay={() => setPlayingState(true)} 
                   onPause={() => setPlayingState(false)}
