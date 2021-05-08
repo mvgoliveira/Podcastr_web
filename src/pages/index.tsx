@@ -3,7 +3,7 @@ import { GetStaticProps } from 'next';
 import Image from 'next/image';
 import Link from 'next/link';
 
-import { api } from '../services/api';
+import { api } from '../../services/api';
 import { format, parseISO } from 'date-fns';
 import ptBR from 'date-fns/locale/pt-BR';
 import { convertDurationToTimeString } from '../components/utils/convertDurationToTimeString';

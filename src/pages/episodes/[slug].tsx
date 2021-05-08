@@ -5,7 +5,7 @@ import Image from 'next/image';
 import Link from 'next/link';
 
 import { convertDurationToTimeString } from '../../components/utils/convertDurationToTimeString';
-import { api } from '../../services/api';
+import { api } from '../../../services/api';
 import styles from './episodes.module.scss';
 
 type Episode = {
