@@ -7,6 +7,8 @@ O NLW é um evento online organizado pela @rocketseat, com muito código, desafi
 
 A trilha react da quinta edição do nlw tem o objetivo de criar um Website chamado Podcastr, um serviço de reprodução de podcasts de programação.
 
+---
+
 #### :desktop_computer: Páginas da aplicação
 
 ![image](https://user-images.githubusercontent.com/53785487/118195387-87c9c580-b421-11eb-8b25-fc7f43f34d24.png)
