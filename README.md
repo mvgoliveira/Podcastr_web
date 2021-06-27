@@ -35,6 +35,7 @@ A trilha react da quinta edição do nlw tem o objetivo de criar um Website cham
   yarn dev
 ```
 
+---
 
 
 ### **📝 Licença**
