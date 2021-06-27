@@ -13,6 +13,7 @@ A trilha react da quinta edição do nlw tem o objetivo de criar um Website cham
 
 ![image](https://user-images.githubusercontent.com/53785487/118196467-708bd780-b423-11eb-9f90-5eb49303185f.png)
 
+---
 
 ### 📁 Instalação
 
@@ -31,6 +32,7 @@ A trilha react da quinta edição do nlw tem o objetivo de criar um Website cham
   yarn dev
 ```
 
+---
 
 ### **📝 Licença**
 
