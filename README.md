@@ -32,9 +32,6 @@ A trilha react da quinta edição do nlw tem o objetivo de criar um Website cham
   yarn dev
 ```
 
----
-
-
 <hr>
 
 Feito com :hearts: por **[Marcus Oliveira](https://www.linkedin.com/in/marcus-oliveira-3b92011a7/)**.
