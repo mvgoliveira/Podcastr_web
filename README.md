@@ -34,10 +34,6 @@ A trilha react da quinta edição do nlw tem o objetivo de criar um Website cham
 
 ---
 
-### **📝 Licença**
-
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](https://github.com/mvgoliveira/Podcastr_web/blob/main/LICENSE) para mais detalhes.
-
 
 <hr>
 
